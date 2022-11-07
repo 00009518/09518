@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cw1_9518_proxy", "cw1_9518_proxy\cw1_9518_proxy\cw1_9518_proxy.csproj", "{AB3E2298-8E2F-4FAF-9BD7-2AA95CE8D766}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cw1_9518_view", "cw1_9518_view\cw1_9518_view\cw1_9518_view.csproj", "{2583B3CB-19B8-4858-AFB3-B07817DD7D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3E2298-8E2F-4FAF-9BD7-2AA95CE8D766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3E2298-8E2F-4FAF-9BD7-2AA95CE8D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3E2298-8E2F-4FAF-9BD7-2AA95CE8D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3E2298-8E2F-4FAF-9BD7-2AA95CE8D766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2583B3CB-19B8-4858-AFB3-B07817DD7D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2583B3CB-19B8-4858-AFB3-B07817DD7D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2583B3CB-19B8-4858-AFB3-B07817DD7D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2583B3CB-19B8-4858-AFB3-B07817DD7D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04CBD6D-2882-4FD4-A55B-CE9E24559F2B}
+	EndGlobalSection
+EndGlobal
